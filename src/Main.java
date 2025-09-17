@@ -16,11 +16,11 @@ public class Main {
       Graph graphL = new Graph(sc); 
       
       graphL.constructionReseau();
-      graphL.affichage_RT();
+      //graphL.affichage_RT();
       graphL.CalculFlotMax();
       graphL.CalulCoupeMin();
       //graphL.affichagecoupestest();
-      graphL.ResoudreBinIm("0", "1");
+      graphL.ResoudreBinIm(" ", "*");
 
 
       sc.close();
