@@ -25,5 +25,6 @@ Image binarisation for the ```deuxlunes.txt``` instance:
 
 
 Image binarisation for the ```tou.txt``` instance:
-![render1758198224400](https://github.com/user-attachments/assets/758b337b-73f1-49b0-a199-dac81caacd61)
+![render1758199109832](https://github.com/user-attachments/assets/ffff4679-e18d-4d99-af8c-9ee929eee1f6)
+
 
